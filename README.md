@@ -28,9 +28,6 @@ int  main(void)
 
   scanf("%s42", user);
   ft_printf("Greetings, %s. Welcome to RedLineCoder's profile!\n", user);
-  while (browsing)
-    have_fun(user);
-  return (EXIT_SUCCES);
 }
 ```
 
