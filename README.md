@@ -18,14 +18,12 @@
   <img src="https://komarev.com/ghpvc/?username=redlinecoder&style=flat-square&color=red" alt=""/>
 </div>
 
-
-| About Me |  |
+| About Me | |
 | --- | --- |
 | `Education` | Université Galatasaray -> Mathematics, École42 -> Common Core |
 | `Interests` | Artificial Intelligence, Data Science, Computer Architecture, Linux |
 | `Coding Environment` | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;|
 | `Learning` | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;|
-| `Top Lang` | <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=redlinecoder&layout=compact&langs_count=8&card_width=320" />|
 
 <p align="center">
   <a href=""><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
